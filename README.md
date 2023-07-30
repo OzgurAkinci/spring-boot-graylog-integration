@@ -33,7 +33,7 @@ docker-compose up
     </root>
 </log4j:configuration>
 ```
-### test controller
+### controller
 ```
 @RestController
 @RequestMapping("/api/graylog")
@@ -51,5 +51,7 @@ public class TestController {
 Go to Graylog http://127.0.0.1:9000
 Log in as admin (admin/admin)
 Go to system -> inputs -> select GELF UDP -> Launch new input
+Save and click on show received messages
 ```
 ![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/GelfInputGit.png?raw=true)
+![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/GraylogSearch.png?raw=true)
