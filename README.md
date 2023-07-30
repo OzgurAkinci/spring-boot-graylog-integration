@@ -51,5 +51,5 @@ public class TestController {
 Go to Graylog http://127.0.0.1:9000
 Log in as admin (admin/admin)
 Go to system -> inputs -> select GELF UDP -> Launch new input
-![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/main/git_resources/pods.png?raw=true)
 ```
+![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/GelfInputGit.png?raw=true)
