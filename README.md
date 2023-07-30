@@ -54,4 +54,4 @@ Go to system -> inputs -> select GELF UDP -> Launch new input
 Save and click on show received messages
 ```
 ![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/GelfInputGit.png?raw=true)
-![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/GraylogSearch.png?raw=true)
+![Screenshot](https://github.com/OzgurAkinci/spring-boot-graylog-integration/blob/master/git_resources/ShowReceivedMessages.png?raw=true)
